@@ -12,6 +12,7 @@ A few of us have started making GitHub repositories to document everything. This
 - https://github.com/sotayamashita/knowledge
 - https://github.com/sotojuan/knowledge
 - https://github.com/theatlasroom/tidbits
+- https://github.com/yoshuawuyts/knowledge
 
 ## Contribute
 
