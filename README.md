@@ -2,7 +2,7 @@
 
 > 💡 A list of knowledge repositories
 
-A few of us have started making GitHub repositories to document everything. This is a list of them. 
+@yoshuawuyts started a GitHub repository to document everything: others have followed suit and made their own. This is a list of them. 
 
 ## Repositories
 
