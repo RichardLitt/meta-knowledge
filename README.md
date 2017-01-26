@@ -18,6 +18,8 @@
 
 If you know of any more, add them here!
 
+If you're interested in downloading all of the repos at once, see the discussion and shell script provided in [#1](https://github.com/RichardLitt/meta-knowledge/issues/1).
+
 ## License
 
 CC0.
