@@ -12,6 +12,7 @@
 - https://github.com/sotayamashita/knowledge
 - https://github.com/sotojuan/knowledge
 - https://github.com/theatlasroom/tidbits
+- https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
 
 ## Contribute
