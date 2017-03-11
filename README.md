@@ -14,7 +14,7 @@
 - https://github.com/theatlasroom/tidbits
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
-- https://github.com/nikitavoloboev/meta-knowledge
+- https://github.com/nikitavoloboev/knowledge-map
 
 ## Contribute
 
