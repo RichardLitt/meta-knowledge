@@ -7,6 +7,7 @@
 ## Repositories
 
 - https://github.com/joshwnj/knowledge
+- https://github.com/nikitavoloboev/knowledge-map
 - https://github.com/noffle/wisdom
 - https://github.com/RichardLitt/knowledge
 - https://github.com/sotayamashita/knowledge
@@ -14,7 +15,6 @@
 - https://github.com/theatlasroom/tidbits
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
-- https://github.com/nikitavoloboev/knowledge-map
 
 ## Contribute
 
