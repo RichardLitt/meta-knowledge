@@ -15,6 +15,7 @@
 - https://github.com/theatlasroom/tidbits
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
+- https://github.com/joshpierro/knowledge
 
 ## Contribute
 
