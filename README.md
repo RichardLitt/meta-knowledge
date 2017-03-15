@@ -7,6 +7,7 @@
 ## Repositories
 
 - https://github.com/joshwnj/knowledge
+- https://github.com/joshpierro/knowledge
 - https://github.com/nikitavoloboev/knowledge-map
 - https://github.com/noffle/wisdom
 - https://github.com/RichardLitt/knowledge
