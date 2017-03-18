@@ -6,6 +6,7 @@
 
 ## Repositories
 
+- https://github.com/bl4ckdu5t/knowledge
 - https://github.com/joshwnj/knowledge
 - https://github.com/joshpierro/knowledge
 - https://github.com/nikitavoloboev/knowledge-map
