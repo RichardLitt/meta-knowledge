@@ -2,10 +2,10 @@
 
 > 💡 A list of knowledge repositories
 
-@yoshuawuyts started a GitHub repository to document everything: others have followed suit and made their own. This is a list of them. 
 
 ## Repositories
 
+- https://github.com/balupton/learnings
 - https://github.com/bl4ckdu5t/knowledge
 - https://github.com/joshwnj/knowledge
 - https://github.com/joshpierro/knowledge
