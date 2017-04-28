@@ -2,6 +2,7 @@
 
 > 💡 A list of knowledge repositories
 
+Use GitHub repositories to document everything. \o/
 
 ## Repositories
 
