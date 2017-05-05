@@ -12,6 +12,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/joshwnj/knowledge
 - https://github.com/joshpierro/knowledge
 - https://github.com/nikitavoloboev/knowledge-map
+- https://github.com/galileo/knowledge
 - https://github.com/noffle/wisdom
 - https://github.com/RichardLitt/knowledge
 - https://github.com/sotayamashita/knowledge
