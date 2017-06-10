@@ -21,6 +21,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/sotojuan/knowledge
 - https://github.com/theatlasroom/tidbits
 - https://github.com/voxsim/knowledge
+- https://github.com/vrachieru/cheatsheet
 - https://github.com/yoshuawuyts/knowledge
 
 ## Contribute
