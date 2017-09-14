@@ -10,6 +10,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/bl4ckdu5t/knowledge
 - https://github.com/daniphilia/knowledge
 - https://github.com/galileo/knowledge
+- https://github.com/hzlmn/week-learning
 - https://github.com/joshpierro/knowledge
 - https://github.com/joshwnj/knowledge
 - https://github.com/MarcLoupias/memo-dev
