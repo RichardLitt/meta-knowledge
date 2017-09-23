@@ -15,7 +15,6 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/joshwnj/knowledge
 - https://github.com/MarcLoupias/memo-dev
 - https://github.com/nicksp/til
-- https://github.com/nikitavoloboev/knowledge-map
 - https://github.com/noffle/wisdom
 - https://github.com/RichardLitt/knowledge
 - https://github.com/sotayamashita/knowledge
@@ -23,12 +22,20 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/theatlasroom/tidbits
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
+- https://github.com/nikitavoloboev/knowledge
 
 ## Contribute
 
 If you know of any more, add them here! Please alphabetize your entry.
 
 If you're interested in downloading all of the repos at once, see the discussion and shell script provided in [#1](https://github.com/RichardLitt/meta-knowledge/issues/1).
+
+## Resources
+
+For more knowledge sharing repositories that are not personal you can check these :
+
+- https://github.com/learn-anything/maps
+- https://github.com/sindresorhus/awesome
 
 ## License
 
