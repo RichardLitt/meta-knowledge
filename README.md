@@ -23,6 +23,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
 - https://github.com/nikitavoloboev/knowledge
+- https://github.com/azer/notebook
 
 ## Contribute
 
