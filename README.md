@@ -24,6 +24,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/yoshuawuyts/knowledge
 - https://github.com/nikitavoloboev/knowledge
 - https://github.com/azer/notebook
+- https://github.com/zehfernandes/dailylog
 
 ## Contribute
 
