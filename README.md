@@ -8,6 +8,7 @@ Use GitHub repositories to document everything. \o/
 
 - [Azer Koçulu](https://github.com/azer/notebook)
 - [Benjamin Lupton](https://github.com/balupton/learnings)
+- [Caio Gondim](https://github.com/caiogondim/knowledge)
 - [Dani P.](https://github.com/daniphilia/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
