@@ -26,6 +26,7 @@ Use GitHub repositories to document everything. \o/
 - https://github.com/voxsim/knowledge
 - https://github.com/yoshuawuyts/knowledge
 - https://github.com/zehfernandes/dailylog
+- https://github.com/caiogondim/knowledge
 
 
 ## Contribute
