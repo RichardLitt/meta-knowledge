@@ -10,6 +10,7 @@ Use GitHub repositories to document everything. \o/
 - [Benjamin Lupton](https://github.com/balupton/learnings)
 - [Dani P.](https://github.com/daniphilia/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
+- [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Ezekiel Kigbo](https://github.com/theatlasroom/tidbits)
 - [Joseph Rex](https://github.com/josephrexme/knowledge)
 - [Josh Johnston](https://github.com/joshwnj/knowledge)
@@ -25,7 +26,6 @@ Use GitHub repositories to document everything. \o/
 - [Stephen Whitmore](https://github.com/noffle/wisdom)
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)
 - [Zeh Fernandes](https://github.com/zehfernandes/dailylog)
-- [David Gasquez](https://github.com/davidgasquez/handbook)
 
 ## Contribute
 
