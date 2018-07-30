@@ -25,6 +25,7 @@ Use GitHub repositories to document everything. \o/
 - [Stephen Whitmore](https://github.com/noffle/wisdom)
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)
 - [Zeh Fernandes](https://github.com/zehfernandes/dailylog)
+- [David Gasquez](https://github.com/davidgasquez/handbook)
 
 ## Contribute
 
