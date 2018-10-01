@@ -23,6 +23,7 @@ Use GitHub repositories to document everything. \o/
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
+- [Omar Bahareth](https://github.com/obahareth/knowledge)
 - [Richard Littauer](https://github.com/RichardLitt/knowledge)
 - [Sam Yamashita](https://github.com/sotayamashita/knowledge)
 - [Simon Vocella](https://github.com/voxsim/knowledge)
