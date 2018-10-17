@@ -19,6 +19,7 @@ Use GitHub repositories to document everything. \o/
 - [Joseph Rex](https://github.com/josephrexme/knowledge)
 - [Josh Johnston](https://github.com/joshwnj/knowledge)
 - [Josh Pierro](https://github.com/joshpierro/knowledge)
+- [Junwei Zhao](https://github.com/wahyd4/knowledge-mind-mapping)
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Marc Loupias](https://github.com/MarcLoupias/memo-dev)
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
