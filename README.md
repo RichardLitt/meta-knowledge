@@ -14,6 +14,7 @@ Use GitHub repositories to document everything. \o/
 - [Dani P.](https://github.com/daniphilia/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
+- [Eyal Levin](https://github.com/eyalev/notes)
 - [Ezekiel Kigbo](https://github.com/theatlasroom/tidbits)
 - [Gytis Daujotas](https://github.com/gytdau/directory)
 - [Joseph Rex](https://github.com/josephrexme/knowledge)
