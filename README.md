@@ -32,6 +32,7 @@ Use GitHub repositories to document everything. \o/
 - [Richard Littauer](https://github.com/RichardLitt/knowledge)
 - [Sam Yamashita](https://github.com/sotayamashita/knowledge)
 - [Simon Vocella](https://github.com/voxsim/knowledge)
+- [Stephen McAleese](https://github.com/smcaleese/directory)
 - [Stephen Whitmore](https://github.com/noffle/wisdom)
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)
 - [Zeh Fernandes](https://github.com/zehfernandes/dailylog)
