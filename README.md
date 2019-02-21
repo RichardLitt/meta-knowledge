@@ -28,6 +28,7 @@ Use GitHub repositories to document everything. \o/
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
 - [Omar Bahareth](https://github.com/obahareth/knowledge)
+- [Piotr Stojanow](https://github.com/psto/episteme)
 - [PuiMan Cheui](https://github.com/aleen42/PersonalWiki)
 - [Richard Littauer](https://github.com/RichardLitt/knowledge)
 - [Sam Yamashita](https://github.com/sotayamashita/knowledge)
