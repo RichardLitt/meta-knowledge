@@ -24,6 +24,7 @@ Use GitHub repositories to document everything. \o/
 - [Junwei Zhao](https://github.com/wahyd4/knowledge-mind-mapping)
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Marc Loupias](https://github.com/MarcLoupias/memo-dev)
+- [Mingyang Li](https://github.com/tslmy/know)
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
