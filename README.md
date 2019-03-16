@@ -12,7 +12,6 @@ Use GitHub repositories to document everything. \o/
 - [Benjamin Lupton](https://github.com/balupton/learnings)
 - [Caio Gondim](https://github.com/caiogondim/knowledge)
 - [.CLI](https://github.com/dotcli/knowledge)
-- [Dani P.](https://github.com/daniphilia/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Eyal Levin](https://github.com/eyalev/notes)
