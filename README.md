@@ -6,6 +6,7 @@ Use GitHub repositories to document everything. \o/
 
 ## Repositories
 
+- [Aizat Faiz](https://github.com/aizatto/gitbook-public)
 - [Alex Pliutau](https://github.com/plutov/notebook)
 - [Andrew Zappella](https://github.com/azappella/knowledge)
 - [Azer Koçulu](https://github.com/azer/notebook)
