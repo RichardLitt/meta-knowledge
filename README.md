@@ -12,6 +12,7 @@ Use GitHub repositories to document everything. \o/
 - [Azer Koçulu](https://github.com/azer/notebook)
 - [Benjamin Lupton](https://github.com/balupton/learnings)
 - [Caio Gondim](https://github.com/caiogondim/knowledge)
+- [Carlos Delfino](https://carlosdelfino.github.io) [\(Source on GitHub\)](https://github.com/CarlosDelfino/carlosdelfino.github.com)
 - [.CLI](https://github.com/dotcli/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
