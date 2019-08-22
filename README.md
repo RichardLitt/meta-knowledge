@@ -19,6 +19,7 @@ Use GitHub repositories to document everything. \o/
 - [Eyal Levin](https://github.com/eyalev/notes)
 - [Ezekiel Kigbo](https://github.com/theatlasroom/tidbits)
 - [Gytis Daujotas](https://github.com/gytdau/directory)
+- [Harald O. Bakke](https://github.com/bakke92/hwiki)
 - [Joseph Rex](https://github.com/josephrexme/knowledge)
 - [Josh Johnston](https://github.com/joshwnj/knowledge)
 - [Josh Pierro](https://github.com/joshpierro/knowledge)
