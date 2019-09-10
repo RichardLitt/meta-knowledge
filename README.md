@@ -34,6 +34,7 @@ Use GitHub repositories to document everything. \o/
 - [Piotr Stojanow](https://github.com/psto/episteme)
 - [Prasanna Loganathar](https://github.com/prasannavl/knowledge)
 - [PuiMan Cheui](https://github.com/aleen42/PersonalWiki)
+- [Rachel Brindle](https://knowledge.rachelbrindle.com/) [\(Source on GitHub\)](https://github.com/younata/personal_knowledge)
 - [Richard Littauer](https://github.com/RichardLitt/knowledge)
 - [Sam Yamashita](https://github.com/sotayamashita/knowledge)
 - [Simon Vocella](https://github.com/voxsim/knowledge)
