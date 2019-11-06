@@ -28,6 +28,7 @@ Use GitHub repositories to document everything. \o/
 - [Manassarn Manoonchai](https://github.com/narze/knowledge)
 - [Marc Loupias](https://github.com/MarcLoupias/memo-dev)
 - [Mingyang Li](https://github.com/tslmy/know)
+- [Myles Braithwaite](https://wiki.mylesb.ca/) [\(Source on GitHub\)](https://github.com/myles/wiki)
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
