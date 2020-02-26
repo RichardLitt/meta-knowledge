@@ -24,6 +24,7 @@ Use GitHub repositories to document everything. \o/
 - [Josh Johnston](https://github.com/joshwnj/knowledge)
 - [Josh Pierro](https://github.com/joshpierro/knowledge)
 - [Junwei Zhao](https://github.com/wahyd4/knowledge-mind-mapping)
+- [Justin W. Flory](https://github.com/jwflory/logbook) (CC BY-SA except where otherwise stated)
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Manassarn Manoonchai](https://github.com/narze/knowledge)
 - [Marc Loupias](https://github.com/MarcLoupias/memo-dev)
@@ -56,8 +57,10 @@ If you're interested in downloading all of the repos at once, see the discussion
 
 For more knowledge sharing repositories that are not personal you can check these:
 
-- [Learn Anything](https://github.com/learn-anything/learn-anything)
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
+- [FOSSRIT/runbook](https://github.com/FOSSRIT/runbook): Runbook for a Free/Open Source Software community initiative at Rochester Institute of Technology
+- [Learn Anything](https://github.com/learn-anything/learn-anything)
+- [RITlug/runbook](https://github.com/RITlug/runbook): Runbook for a university Linux Users Group run by students
 
 ## License
 
