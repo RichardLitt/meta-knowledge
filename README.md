@@ -27,6 +27,7 @@ Use GitHub repositories to document everything. \o/
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Manassarn Manoonchai](https://github.com/narze/knowledge)
 - [Marc Loupias](https://github.com/MarcLoupias/memo-dev)
+- [Marshall Bowers](https://github.com/maxdeviant/knowledge)
 - [Mathias Borgmalm](https://github.com/MateBoy/knowledge-base)
 - [Mingyang Li](https://github.com/tslmy/know)
 - [Myles Braithwaite](https://wiki.mylesb.ca/) [\(Source on GitHub\)](https://github.com/myles/wiki)
