@@ -11,6 +11,7 @@ Use GitHub repositories to document everything. \o/
 - [Andrew Zappella](https://github.com/azappella/knowledge)
 - [Azer Koçulu](https://github.com/azer/notebook)
 - [Benjamin Lupton](https://github.com/balupton/learnings)
+- [Blue Book](https://lyz-code.github.io/blue-book) [\(Source on GitHub\)](https://github.com/lyz-code/blue-book)
 - [Caio Gondim](https://github.com/caiogondim/knowledge)
 - [Carlos Delfino](https://carlosdelfino.github.io) [\(Source on GitHub\)](https://github.com/CarlosDelfino/carlosdelfino.github.com)
 - [.CLI](https://github.com/dotcli/knowledge)
