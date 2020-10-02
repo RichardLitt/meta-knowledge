@@ -8,6 +8,7 @@ Use GitHub repositories to document everything. \o/
 
 - [Aizat Faiz](https://github.com/aizatto/gitbook-public)
 - [Alex Pliutau](https://github.com/plutov/notebook)
+- [Alper Kanat](https://github.com/tunix/notebook)
 - [Andrew Zappella](https://github.com/azappella/knowledge)
 - [Azer Koçulu](https://github.com/azer/notebook)
 - [Benjamin Lupton](https://github.com/balupton/learnings)
