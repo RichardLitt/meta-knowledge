@@ -35,6 +35,7 @@ Use GitHub repositories to document everything. \o/
 - [Myles Braithwaite](https://wiki.mylesb.ca/) [\(Source on GitHub\)](https://github.com/myles/wiki)
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
+- [Nimalan aka mark1626](https://mark1626.github.io/knowledge/) [\(Source on GitHub\)](https://github.com/mark1626/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
 - [Omar Bahareth](https://github.com/obahareth/knowledge)
 - [Piotr Stojanow](https://github.com/psto/episteme)
