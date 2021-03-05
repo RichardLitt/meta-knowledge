@@ -18,6 +18,7 @@ Use GitHub repositories to document everything. \o/
 - [.CLI](https://github.com/dotcli/knowledge)
 - [Daniel Schildt](https://github.com/d2s/knowledge)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
+- [E. Ferreira](https://github.com/slowernews/notebook)
 - [Eyal Levin](https://github.com/eyalev/notes)
 - [Ezekiel Kigbo](https://github.com/theatlasroom/tidbits)
 - [Gytis Daujotas](https://github.com/gytdau/directory)
