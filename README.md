@@ -32,6 +32,7 @@ Use GitHub repositories to document everything. \o/
 - [Marc Loupias](http://memo-dev.marc-loupias.fr/) [\(Source on GitHub\)](https://github.com/MarcLoupias/memo-dev)
 - [Marshall Bowers](https://github.com/maxdeviant/knowledge)
 - [Mathias Borgmalm](https://github.com/MateBoy/knowledge-base)
+- [Mehmet Kanat](https://github.com/mehmetka/notebook)
 - [Mingyang Li](https://github.com/tslmy/know)
 - [Myles Braithwaite](https://wiki.mylesb.ca/) [\(Source on GitHub\)](https://github.com/myles/wiki)
 - [Nick S. Plekhanov](https://github.com/nicksp/til)
