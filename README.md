@@ -51,6 +51,7 @@ Use GitHub repositories to document everything. \o/
 - [Simon Vocella](https://github.com/voxsim/knowledge)
 - [Stephen McAleese](https://github.com/smcaleese/directory)
 - [Stephen Whitmore](https://github.com/noffle/wisdom)
+- [Tommi](https://tommi.space 'tommi.space')’s <cite>[Jam](https://tommi.space/jam 'Tommi’s “The Jam„ — tommi.space')</cite> — [Source](https://github.com/xplosionmind/tommi.space/tree/main/_notes '_notes in tommi.space, on GitHub')
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)
 - [Zeh Fernandes](https://github.com/zehfernandes/dailylog)
 
