@@ -66,6 +66,13 @@ For more knowledge sharing repositories that are not personal you can check thes
 - [Learn Anything](https://github.com/learn-anything/learn-anything)
 - [Awesome Lists](https://github.com/sindresorhus/awesome)
 
+Other knowledge sharing compilations:
+
+* [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
+* [Nikita's compilation](https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked)
+* [KasperZutterman's compilation](https://github.com/KasperZutterman/Second-Brain)
+* [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
+
 ## License
 
 CC0.
