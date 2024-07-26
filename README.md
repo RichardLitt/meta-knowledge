@@ -47,6 +47,7 @@ Use GitHub repositories to document everything. \o/
 - [Rachel Brindle](https://knowledge.rachelbrindle.com/) [\(Source on GitHub\)](https://github.com/younata/personal_knowledge)
 - [Richard Littauer](https://github.com/RichardLitt/knowledge)
 - [Sam Yamashita](https://github.com/sotayamashita/knowledge)
+- [Selim Ozturk](https://github.com/selimslab/selimslab.github.io)
 - [Simon Vocella](https://github.com/voxsim/knowledge)
 - [Stephen McAleese](https://github.com/smcaleese/directory)
 - [Stephen Whitmore](https://github.com/noffle/wisdom)
