@@ -41,6 +41,7 @@ Use GitHub repositories to document everything. \o/
 - [Nikita Voloboev](https://github.com/nikitavoloboev/knowledge)
 - [Nimalan aka mark1626](https://mark1626.github.io/knowledge/) [\(Source on GitHub\)](https://github.com/mark1626/knowledge)
 - [Oleh Kuchuk](https://github.com/hzlmn/week-learning)
+- [Oliver Newth](https://garden.n3wth.com) [\(Source on GitHub\)](https://github.com/n3wth/n3wth/tree/main/apps/garden)
 - [Omar Bahareth](https://github.com/obahareth/knowledge)
 - [Piotr Stojanow](https://github.com/psto/episteme)
 - [Prasanna Loganathar](https://github.com/prasannavl/knowledge)
